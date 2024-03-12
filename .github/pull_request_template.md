@@ -6,16 +6,18 @@ Fixes # (issue)
 
 ### What kind of change does this PR introduce?
 
-- :bug: Bugfix
-- :tada: New feature
-- :art: Visual changes
-- :zap: Dependencies update
-- :eyes: Other
+- [ ] :bug: Bugfix
+- [ ] :tada: New feature
+- [ ] :art: Visual changes
+- [ ] :zap: Dependencies update
+- [ ] :eyes: Other
 
 ### What is the current behavior?
 
 ### What is the new behavior?
 
 ### Does this PR introduce a breaking change or need a database migration?
+- [ ] yes
+- [ ] no
 
 ### Other information:
