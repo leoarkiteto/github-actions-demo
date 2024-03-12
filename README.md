@@ -6,3 +6,4 @@
 
 ## Now I am using another template
 
+- pr template
